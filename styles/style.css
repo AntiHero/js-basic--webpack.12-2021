@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: honeydew;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  color: gray;
+  font-size: 42px;
+}
+
+/* .cat {
+  background-image: url('../assets/images/funny_cat.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 300px;
+} */
+
+/* img {
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+} */
+
